@@ -2,46 +2,67 @@
 
 ## Overview
 
-Student Tracker is an intuitive solution designed for teachers to effectively manage and monitor their students. This system provides a streamlined interface for handling various aspects of student management, including:
-
-- **Groups:** Organize students into different groups for better management.
-- **Sessions:** Schedule and track class sessions.
-- **Attendance:** Keep accurate records of student attendance.
-- **Homework:** Add and manage homework assignments.
-- **Notes & Exams:** Record notes and manage exams for each session.
-
-With its user-friendly design, Student Tracker makes it easy for teachers to stay on top of their classroom activities and student progress.
+**Student Tracker** is an application designed for teachers to manage student information efficiently. It helps track student groups, sessions, attendance, homework, and exams with a user-friendly interface.
 
 ## Features
 
-- Manage student groups and sessions.
-- Track attendance with ease.
-- Add and manage homework assignments.
-- Record and track exam results.
-- User-friendly and intuitive interface.
+- **Student Management:** Keep track of student profiles, including their progress and performance.
+- **Group Management:** Organize students into groups for better session management.
+- **Session Tracking:** Schedule and manage sessions, and keep detailed records of each.
+- **Attendance Monitoring:** Record and monitor student attendance for each session.
+- **Homework Management:** Add, edit, and track homework notes for students.
+- **Exam Management:** Schedule exams and record results with ease.
+- **Modern User Interface:** Enjoy a sleek and intuitive interface designed for ease of use.
 
 ## Installation
 
-1. Go to the [Releases Page](https://github.com/0xVirtu4l/student-tracker/releases) on GitHub.
-2. Download the latest release.
-3. Follow the installation instructions provided with the release package.
+To install the Student Tracker application, follow these steps:
+
+1. **Download the Installer:**
+   - Visit the [Releases page](https://github.com/0xVirtu4l/student-tracker/releases) on GitHub and download the latest `.exe` setup file.
+
+2. **Run the Installer:**
+   - Locate the downloaded setup file on your computer and double-click to run it.
+
+3. **Follow the Setup Wizard:**
+   - Follow the on-screen instructions to complete the installation.
+
+Once installed, you can open the Student Tracker application from your desktop or start menu.
 
 ## Usage
 
-1. Launch the application by running the executable from the installed directory.
-2. Use the interface to create and manage student groups, sessions, and attendance.
-3. Add homework assignments and record exam results as needed.
+1. **Starting the Application:**
+   - Launch the Student Tracker application from your desktop shortcut or start menu.
+
+2. **Navigating the Interface:**
+   - **Dashboard:** View an overview of your data and quick access to various features.
+   - **Student Management:** Add or update student details and manage student records.
+   - **Group Management:** Create and manage student groups.
+   - **Sessions:** Schedule sessions, track attendance, and manage session details.
+   - **Homework and Exams:** Add and manage homework notes and exam records.
+
+3. **Generating Reports:**
+   - Generate detailed reports on attendance, homework, and exam results directly from the application.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
 ## Contact
 
-For any questions or support, please contact us via [WhatsApp](https://wa.me/1110597753).
+For support or inquiries, please contact the developer via [WhatsApp](https://wa.me/01110597753).
 
-Thank you for using Student Tracker!
+## Acknowledgements
+
+- **Flask:** A web framework used in the development of the application.
+- **Bootstrap:** Provides a modern and responsive design.
+- **SQLite:** Used for lightweight database management.
+- **CustomTkinter:** For creating a modern and user-friendly launcher interface.
 
 ---
 
-*This README file was created to provide a clear understanding of the Student Tracker application. For more detailed information, please refer to the documentation included with the release.*
+Feel free to reach out for any further questions or support!
+
+---
+
+*This README file was created to provide a clear understanding of the Student Tracker application. For more detailed information, contact me.*
